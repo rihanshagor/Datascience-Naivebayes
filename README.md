@@ -1,2 +1,3 @@
 # Datascience-Naivebayes
-Applying naive bayes algorithm to predict weather
+Applying naive bayes algorithm to predict weather with R language
+
